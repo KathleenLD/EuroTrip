@@ -1,0 +1,181 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.0060517354914,
+					38.8994666398219
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 03, 2012 at 02:13PM",
+				"comment": "First time on a double decker Megabus! Fingers crossed that this is nothing like my last megabus trip: PGH --> DC via hell",
+				"name": "Union Station Bus Terminal ",
+				"map": "#N/A",
+				"lat": "38.8994666398219",
+				"long": "-77.0060517354914",
+				"rowNumber": 1,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.184989666198,
+					39.9562936798847
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 03, 2012 at 05:26PM",
+				"comment": "",
+				"name": "30th Street Station (PHL) ",
+				"map": "#N/A",
+				"lat": "39.9562936798847",
+				"long": "-75.184989666198",
+				"rowNumber": 2,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.2424430847168,
+					39.8770074527624
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 03, 2012 at 08:06PM",
+				"comment": "",
+				"name": "Philadelphia International Airport (PHL) ",
+				"map": "#N/A",
+				"lat": "39.8770074527624",
+				"long": "-75.2424430847168",
+				"rowNumber": 3,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-75.2515518665314,
+					39.8735904443083
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 03, 2012 at 08:29PM",
+				"comment": "",
+				"name": "Cibo Bistro & Wine Bar ",
+				"map": "#N/A",
+				"lat": "39.8735904443083",
+				"long": "-75.2515518665314",
+				"rowNumber": 4,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.457906723022461,
+					51.4717069341858
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 04, 2012 at 04:31AM",
+				"comment": "",
+				"name": "London Heathrow Airport (LHR) ",
+				"map": "",
+				"lat": "51.4717069341858",
+				"long": "-0.457906723022461",
+				"rowNumber": 5,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.126965045928955,
+					51.5094369214385
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 04, 2012 at 09:45AM",
+				"comment": "",
+				"name": "Chandos ",
+				"map": "#N/A",
+				"lat": "51.5094369214385",
+				"long": "-0.126965045928955",
+				"rowNumber": 6,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.1268470287323,
+					51.519271779584
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 05, 2012 at 07:33AM",
+				"comment": "",
+				"name": "British Museum ",
+				"map": "#N/A",
+				"lat": "51.519271779584",
+				"long": "-0.1268470287323",
+				"rowNumber": 7,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.171468257904053,
+					51.4968147466932
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 05, 2012 at 09:49AM",
+				"comment": "",
+				"name": "Victoria and Albert Museum (V&A) ",
+				"map": "",
+				"lat": "51.4968147466932",
+				"long": "-0.171468257904053",
+				"rowNumber": 8,
+				"hexcolor": "#0077C7"
+			}
+		}
+	]
+}
