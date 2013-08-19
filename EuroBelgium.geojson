@@ -6,19 +6,19 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					null,
-					null
+					4.35032844543457,
+					50.8497676887401
 				]
 			},
 			"properties": {
 				"marker-size": "small",
 				"marker-color": "#0077C7",
-				"november092012at0759am": "November 09, 2012 at 10:27AM",
-				"_cokwr": "Massive collection of bars making up the whole \"village\"",
-				"brusselbruxellesbrussels": "Delirium Village ",
-				"na": "#N/A",
-				"_chk2m": "50.8531145942085",
-				"_ciyn3": "4.35316100376405",
+				"date": "November 09, 2012 at 07:59AM",
+				"comment": "",
+				"name": "Brussel / Bruxelles / Brussels ",
+				"map": "#N/A",
+				"lat": "50.8497676887401",
+				"long": "4.35032844543457",
 				"rowNumber": 1,
 				"hexcolor": "#0077C7"
 			}
@@ -28,19 +28,19 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					null,
-					null
+					4.35316100376405,
+					50.8531145942085
 				]
 			},
 			"properties": {
 				"marker-size": "small",
 				"marker-color": "#0077C7",
-				"november092012at0759am": "November 09, 2012 at 12:29PM",
-				"_cokwr": "Ah. Found the one everyone talks about.",
-				"brusselbruxellesbrussels": "Delirium Café ",
-				"na": "#N/A",
-				"_chk2m": "50.8483999384293",
-				"_ciyn3": "4.3538696352923",
+				"date": "November 09, 2012 at 10:27AM",
+				"comment": "Massive collection of bars making up the whole \"village\"",
+				"name": "Delirium Village ",
+				"map": "#N/A",
+				"lat": "50.8531145942085",
+				"long": "4.35316100376405",
 				"rowNumber": 2,
 				"hexcolor": "#0077C7"
 			}
@@ -50,19 +50,19 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					null,
-					null
+					4.3538696352923,
+					50.8483999384293
 				]
 			},
 			"properties": {
 				"marker-size": "small",
 				"marker-color": "#0077C7",
-				"november092012at0759am": "November 10, 2012 at 03:59AM",
-				"_cokwr": "Public Brew Day!",
-				"brusselbruxellesbrussels": "Brasserie Cantillon Brouwerij ",
-				"na": "#N/A",
-				"_chk2m": "50.8413946264108",
-				"_ciyn3": "4.33537244796753",
+				"date": "November 09, 2012 at 12:29PM",
+				"comment": "Ah. Found the one everyone talks about.",
+				"name": "Delirium Café ",
+				"map": "#N/A",
+				"lat": "50.8483999384293",
+				"long": "4.3538696352923",
 				"rowNumber": 3,
 				"hexcolor": "#0077C7"
 			}
@@ -72,19 +72,19 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					null,
-					null
+					4.33537244796753,
+					50.8413946264108
 				]
 			},
 			"properties": {
 				"marker-size": "small",
 				"marker-color": "#0077C7",
-				"november092012at0759am": "November 10, 2012 at 09:31AM",
-				"_cokwr": "Belgian OSM meetup!",
-				"brusselbruxellesbrussels": "Kaffee-ine ",
-				"na": "#N/A",
-				"_chk2m": "51.0247308773449",
-				"_ciyn3": "4.47702172584036",
+				"date": "November 10, 2012 at 03:59AM",
+				"comment": "Public Brew Day!",
+				"name": "Brasserie Cantillon Brouwerij ",
+				"map": "#N/A",
+				"lat": "50.8413946264108",
+				"long": "4.33537244796753",
 				"rowNumber": 4,
 				"hexcolor": "#0077C7"
 			}
@@ -94,19 +94,19 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					null,
-					null
+					4.47702172584036,
+					51.0247308773449
 				]
 			},
 			"properties": {
 				"marker-size": "small",
 				"marker-color": "#0077C7",
-				"november092012at0759am": "November 10, 2012 at 03:24PM",
-				"_cokwr": "",
-				"brusselbruxellesbrussels": "Spago ",
-				"na": "#N/A",
-				"_chk2m": "50.848535",
-				"_ciyn3": "4.347614",
+				"date": "November 10, 2012 at 09:31AM",
+				"comment": "Belgian OSM meetup!",
+				"name": "Kaffee-ine ",
+				"map": "#N/A",
+				"lat": "51.0247308773449",
+				"long": "4.47702172584036",
 				"rowNumber": 5,
 				"hexcolor": "#0077C7"
 			}
@@ -116,19 +116,19 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					null,
-					null
+					4.347614,
+					50.848535
 				]
 			},
 			"properties": {
 				"marker-size": "small",
 				"marker-color": "#0077C7",
-				"november092012at0759am": "November 10, 2012 at 03:24PM",
-				"_cokwr": "",
-				"brusselbruxellesbrussels": "Bonnefooi ",
-				"na": "#N/A",
-				"_chk2m": "50.8474848911408",
-				"_ciyn3": "4.34943795204163",
+				"date": "November 10, 2012 at 03:24PM",
+				"comment": "",
+				"name": "Spago ",
+				"map": "#N/A",
+				"lat": "50.848535",
+				"long": "4.347614",
 				"rowNumber": 6,
 				"hexcolor": "#0077C7"
 			}
@@ -138,19 +138,19 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					null,
-					null
+					4.34943795204163,
+					50.8474848911408
 				]
 			},
 			"properties": {
 				"marker-size": "small",
 				"marker-color": "#0077C7",
-				"november092012at0759am": "November 11, 2012 at 12:13PM",
-				"_cokwr": "",
-				"brusselbruxellesbrussels": "De Bourgondier ",
-				"na": "#N/A",
-				"_chk2m": "51.208465",
-				"_ciyn3": "3.222334",
+				"date": "November 10, 2012 at 03:24PM",
+				"comment": "",
+				"name": "Bonnefooi ",
+				"map": "#N/A",
+				"lat": "50.8474848911408",
+				"long": "4.34943795204163",
 				"rowNumber": 7,
 				"hexcolor": "#0077C7"
 			}
@@ -160,19 +160,19 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					null,
-					null
+					3.222334,
+					51.208465
 				]
 			},
 			"properties": {
 				"marker-size": "small",
 				"marker-color": "#0077C7",
-				"november092012at0759am": "November 12, 2012 at 08:10AM",
-				"_cokwr": "This is absolutely the most amazing shop I have ever been to in my life.",
-				"brusselbruxellesbrussels": "Madam Mim ",
-				"na": "#N/A",
-				"_chk2m": "51.2097196470431",
-				"_ciyn3": "3.22961455003963",
+				"date": "November 11, 2012 at 12:13PM",
+				"comment": "",
+				"name": "De Bourgondier ",
+				"map": "#N/A",
+				"lat": "51.208465",
+				"long": "3.222334",
 				"rowNumber": 8,
 				"hexcolor": "#0077C7"
 			}
@@ -182,19 +182,19 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					null,
-					null
+					3.22961455003963,
+					51.2097196470431
 				]
 			},
 			"properties": {
 				"marker-size": "small",
 				"marker-color": "#0077C7",
-				"november092012at0759am": "November 12, 2012 at 12:20PM",
-				"_cokwr": "",
-				"brusselbruxellesbrussels": "Bauhaus Hotel ",
-				"na": "#N/A",
-				"_chk2m": "51.2120221400133",
-				"_ciyn3": "3.23775797165649",
+				"date": "November 12, 2012 at 08:10AM",
+				"comment": "This is absolutely the most amazing shop I have ever been to in my life.",
+				"name": "Madam Mim ",
+				"map": "#N/A",
+				"lat": "51.2097196470431",
+				"long": "3.22961455003963",
 				"rowNumber": 9,
 				"hexcolor": "#0077C7"
 			}
@@ -204,19 +204,19 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					null,
-					null
+					3.23775797165649,
+					51.2120221400133
 				]
 			},
 			"properties": {
 				"marker-size": "small",
 				"marker-color": "#0077C7",
-				"november092012at0759am": "November 13, 2012 at 04:49AM",
-				"_cokwr": "Alright, Belgium. It's been real. Heading to Paris.",
-				"brusselbruxellesbrussels": "Station Brugge ",
-				"na": "#N/A",
-				"_chk2m": "51.1976199263731",
-				"_ciyn3": "3.21789979934692",
+				"date": "November 12, 2012 at 12:20PM",
+				"comment": "",
+				"name": "Bauhaus Hotel ",
+				"map": "#N/A",
+				"lat": "51.2120221400133",
+				"long": "3.23775797165649",
 				"rowNumber": 10,
 				"hexcolor": "#0077C7"
 			}
@@ -226,20 +226,42 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					null,
-					null
+					3.21789979934692,
+					51.1976199263731
 				]
 			},
 			"properties": {
 				"marker-size": "small",
 				"marker-color": "#0077C7",
-				"november092012at0759am": "November 13, 2012 at 06:09AM",
-				"_cokwr": "As far as I can tell there are no waffles here. Tragedy.",
-				"brusselbruxellesbrussels": "Station Brussel-Zuid / Gare De Bruxelles-Midi ",
-				"na": "#N/A",
-				"_chk2m": "50.8356626834458",
-				"_ciyn3": "4.33590888977051",
+				"date": "November 13, 2012 at 04:49AM",
+				"comment": "Alright, Belgium. It's been real. Heading to Paris.",
+				"name": "Station Brugge ",
+				"map": "#N/A",
+				"lat": "51.1976199263731",
+				"long": "3.21789979934692",
 				"rowNumber": 11,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					4.33590888977051,
+					50.8356626834458
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 13, 2012 at 06:09AM",
+				"comment": "As far as I can tell there are no waffles here. Tragedy.",
+				"name": "Station Brussel-Zuid / Gare De Bruxelles-Midi ",
+				"map": "#N/A",
+				"lat": "50.8356626834458",
+				"long": "4.33590888977051",
+				"rowNumber": 12,
 				"hexcolor": "#0077C7"
 			}
 		}
