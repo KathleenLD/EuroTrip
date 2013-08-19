@@ -1,0 +1,203 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.457906723022461,
+					51.4717069341858
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 04, 2012 at 04:31AM",
+				"comment": "",
+				"name": "London Heathrow Airport (LHR) ",
+				"map": "",
+				"lat": "51.4717069341858",
+				"long": "-0.457906723022461",
+				"rowNumber": 1,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.126965045928955,
+					51.5094369214385
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 04, 2012 at 09:45AM",
+				"comment": "",
+				"name": "Chandos ",
+				"map": "#N/A",
+				"lat": "51.5094369214385",
+				"long": "-0.126965045928955",
+				"rowNumber": 2,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.1268470287323,
+					51.519271779584
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 05, 2012 at 07:33AM",
+				"comment": "",
+				"name": "British Museum ",
+				"map": "#N/A",
+				"lat": "51.519271779584",
+				"long": "-0.1268470287323",
+				"rowNumber": 3,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.171468257904053,
+					51.4968147466932
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 05, 2012 at 09:49AM",
+				"comment": "",
+				"name": "Victoria and Albert Museum (V&A) ",
+				"map": "#N/A",
+				"lat": "51.4968147466932",
+				"long": "-0.171468257904053",
+				"rowNumber": 4,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.174269965462872,
+					51.4972188731191
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 05, 2012 at 10:09AM",
+				"comment": "",
+				"name": "Science Museum ",
+				"map": "#N/A",
+				"lat": "51.4972188731191",
+				"long": "-0.174269965462872",
+				"rowNumber": 5,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.078491,
+					51.500803
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 06, 2012 at 05:26AM",
+				"comment": "",
+				"name": "The Kitchen ",
+				"map": "#N/A",
+				"lat": "51.500803",
+				"long": "-0.078491",
+				"rowNumber": 6,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.081317166666667,
+					51.499374
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 06, 2012 at 06:13AM",
+				"comment": "A hipster coffee shop to rival Seattle",
+				"name": "Street Coffee ",
+				"map": "#N/A",
+				"lat": "51.499374",
+				"long": "-0.081317166666667",
+				"rowNumber": 7,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.136456462446253,
+					51.5133654740564
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 06, 2012 at 09:31AM",
+				"comment": "Squee!! Nerd pilgrimage complete!",
+				"name": "The John Snow ",
+				"map": "#N/A",
+				"lat": "51.5133654740564",
+				"long": "-0.136456462446253",
+				"rowNumber": 8,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.162692070007324,
+					51.1563351971246
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 07, 2012 at 12:19AM",
+				"comment": "Amsterdam bound",
+				"name": "London Gatwick Airport (LGW) ",
+				"map": "",
+				"lat": "51.1563351971246",
+				"long": "-0.162692070007324",
+				"rowNumber": 9,
+				"hexcolor": "#0077C7"
+			}
+		}
+	]
+}
