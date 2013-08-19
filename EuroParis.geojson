@@ -1,0 +1,357 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.34367450606089,
+					48.8838312723068
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 13, 2012 at 09:06AM",
+				"comment": "I have found my people.",
+				"name": "Rue D'orsel ",
+				"map": "#N/A",
+				"lat": "48.8838312723068",
+				"long": "2.34367450606089",
+				"rowNumber": 1,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.341325,
+					48.884323
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 13, 2012 at 02:10PM",
+				"comment": "Omfg",
+				"name": "L'annexe ",
+				"map": "#N/A",
+				"lat": "48.884323",
+				"long": "2.341325",
+				"rowNumber": 2,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.35400908,
+					48.859468
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 14, 2012 at 09:55AM",
+				"comment": "",
+				"name": "Le Reinitas ",
+				"map": "#N/A",
+				"lat": "48.859468",
+				"long": "2.35400908",
+				"rowNumber": 3,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.30037584421434,
+					48.8381337774864
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 14, 2012 at 12:51PM",
+				"comment": "Cooking class. NBD.",
+				"name": "Le Cordon Bleu ",
+				"map": "#N/A",
+				"lat": "48.8381337774864",
+				"long": "2.30037584421434",
+				"rowNumber": 4,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.33581781387329,
+					48.8609598453226
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 15, 2012 at 03:29AM",
+				"comment": "",
+				"name": "Musée du Louvre ",
+				"map": "#N/A",
+				"lat": "48.8609598453226",
+				"long": "2.33581781387329",
+				"rowNumber": 5,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.37032702117145,
+					48.8559129812325
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 15, 2012 at 06:44AM",
+				"comment": "",
+				"name": "Marché Bastille ",
+				"map": "#N/A",
+				"lat": "48.8559129812325",
+				"long": "2.37032702117145",
+				"rowNumber": 6,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.372682,
+					48.852182
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 15, 2012 at 06:47AM",
+				"comment": "Walked the wrong direction. Found a sushi place. All is not lost.",
+				"name": "Yaki ",
+				"map": "#N/A",
+				"lat": "48.852182",
+				"long": "2.372682",
+				"rowNumber": 7,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.30078852973132,
+					48.8721005873211
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 15, 2012 at 12:36PM",
+				"comment": "Shopping.",
+				"name": "Champs Élysées ",
+				"map": "#N/A",
+				"lat": "48.8721005873211",
+				"long": "2.30078852973132",
+				"rowNumber": 8,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.294952,
+					48.873797
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 15, 2012 at 12:49PM",
+				"comment": "",
+				"name": "Arc de Triomphe ",
+				"map": "#N/A",
+				"lat": "48.873797",
+				"long": "2.294952",
+				"rowNumber": 9,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.2945761680603,
+					48.8583622946493
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 15, 2012 at 02:00PM",
+				"comment": "",
+				"name": "Tour Eiffel ",
+				"map": "",
+				"lat": "48.8583622946493",
+				"long": "2.2945761680603",
+				"rowNumber": 10,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.3420501,
+					48.8501825
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 15, 2012 at 03:56PM",
+				"comment": "",
+				"name": "Bouillon Racine ",
+				"map": "#N/A",
+				"lat": "48.8501825",
+				"long": "2.3420501",
+				"rowNumber": 11,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.35244750976562,
+					48.860592808297
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 16, 2012 at 08:36AM",
+				"comment": "",
+				"name": "Centre Pompidou - Musée National d'Art Moderne ",
+				"map": "#N/A",
+				"lat": "48.860592808297",
+				"long": "2.35244750976562",
+				"rowNumber": 12,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.348597,
+					48.8625601
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 16, 2012 at 12:40PM",
+				"comment": "Paris #OSM meetup in 20 minutes! Nervous about my ability to recognize anyone.",
+				"name": "Le Père Fouettard ",
+				"map": "#N/A",
+				"lat": "48.8625601",
+				"long": "2.348597",
+				"rowNumber": 13,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.3395299911499,
+					48.8821587231227
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 17, 2012 at 10:15AM",
+				"comment": "",
+				"name": "La Fourmi ",
+				"map": "#N/A",
+				"lat": "48.8821587231227",
+				"long": "2.3395299911499",
+				"rowNumber": 14,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.341635,
+					48.88413485
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 17, 2012 at 01:08PM",
+				"comment": "",
+				"name": "Café Chappe ",
+				"map": "#N/A",
+				"lat": "48.88413485",
+				"long": "2.341635",
+				"rowNumber": 15,
+				"hexcolor": "#0077C7"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					1.75505776145332,
+					50.1679095130719
+				]
+			},
+			"properties": {
+				"marker-size": "small",
+				"marker-color": "#0077C7",
+				"date": "November 17, 2012 at 07:28PM",
+				"comment": "Random rest stop in the middle of France",
+				"name": "L'Arche ",
+				"map": "#N/A",
+				"lat": "50.1679095130719",
+				"long": "1.75505776145332",
+				"rowNumber": 16,
+				"hexcolor": "#0077C7"
+			}
+		}
+	]
+}
